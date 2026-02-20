@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ogata-hyakunosuke-golden-kamuy.gif" width="50%">
+  <img src="ogata-hyakunosuke-golden-kamuy.gif" width="100%">
 </p>
 
  <p align="center">𝗜'𝗱 𝘀𝗰𝗿𝗲𝗮𝗺 𝗳𝗼𝗿 𝗵𝗲𝗹𝗽, 𝗯𝘂𝘁 𝘆𝗼𝘂 𝗱𝗼𝗻'𝘁 𝗲𝘅𝗶𝘀𝘁, 𝘁𝗵𝗲𝗿𝗲'𝘀 𝗻𝗼 𝘄𝗮𝘆 𝗼𝘂𝘁</p>
